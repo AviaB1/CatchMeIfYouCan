@@ -19,6 +19,6 @@ you analyze everything in a controlled and isolated environment (e.g.,
 VM, sandbox) to avoid unintended consequences.
 
 ## Passwords: 
-The password for Challenge.zip is: infected 
+The password for Challenge.zip is: **infected** 
 If you’ve decided to view the solutions and write-up, the password for the ZIP file is: 
-ILostToBase64.
+**ILostToBase64**.
