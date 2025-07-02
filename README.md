@@ -23,5 +23,5 @@ The password for Challenge.zip is: **infected**
 If you’ve decided to view the solutions and write-up, the password for the ZIP file is: 
 **ILostToBase64**.
 
-### Important Note:
+## Important Note:
 In case one of the stages fetched from the remote URL is down, the payload is included in the ZIP file **"Write-up && Answers.zip"**. Simply use that instead of fetching it from the remote URL.
