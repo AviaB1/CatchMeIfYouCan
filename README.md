@@ -25,3 +25,6 @@ If you’ve decided to view the solutions and write-up, the password for the ZIP
 
 ## Important Note:
 In case one of the stages fetched from the remote URL is down, the payload is included in the ZIP file **"Write-up && Answers.zip"**. Simply use that instead of fetching it from the remote URL.
+
+## SHA-256 of the Challenge ZIP:
+**c8712c567cf70a3dabeb7ba7a5567cc8b992a331d635f9909244ff1193db015f**
