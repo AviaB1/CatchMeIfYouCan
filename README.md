@@ -1,5 +1,5 @@
 # CatchMeIfYouCan - Malware Analysis Challenge
-This room presents a complete infection chain that will help you develop your script-based malware analysis and deobfuscation techniques.
+This challenge presents a complete infection chain that will help you develop your script-based malware analysis and deobfuscation techniques.
 
 ## Scenario: 
 QuantumX is a space research company focused on discovering and 
